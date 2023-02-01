@@ -1,5 +1,12 @@
-<h1 align = "center" color = "#FA8072">hey</h1>
+<h1 align = "center">こんにちは！</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nano-Keglya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-Keglya)](https://github.com/anuraghazra/github-readme-stats)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=You+can+contact+me:)
+ 
+<img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/telegram.png" width="12"> [``telegram``](https://t.me/nanokeglya)
+
+<img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/discord.png" width="12"> ``NanoKeglyaです#6666``
+#
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-Keglya&layout=compact)
