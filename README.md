@@ -1,4 +1,4 @@
-<h1 align = "center">こんにちは！</h1>
+<h1 align = "center">:yellow_heart:こんにちは:yellow_heart:</h1>
 
 
  ![](https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&&lines=You+can+contact+me:)
