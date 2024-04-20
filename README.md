@@ -1,7 +1,3 @@
-<h1 align = "center">:yellow_heart:こんにちは:yellow_heart:</h1>
-
-# <img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/logo.gif" align="center" width="2000">
-
 **<h3 align = "center">:books:I'm just learning:books:</h3>**
 #
 
@@ -16,7 +12,7 @@
  
 <img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/telegram.png" width="12"> [``Telegram``](https://t.me/nanokeglya)
 
-<img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/discord.png" width="12"> ``NanoKeglyaです#6666``
+<img src="https://github.com/Nano-Keglya/Nano-Keglya/blob/main/discord.png" width="12"> ``nanokeglya``
 #
 
 ![](https://komarev.com/ghpvc/?username=Nano-Keglya)
